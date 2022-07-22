@@ -96,7 +96,7 @@ def main():
         print()
         print(f'Placar até o momento: {resultados}')
         rounds += 1
-        print(f'restam apenas: {5 - rounds} rounds')
+        print(f'restam apeenas: {5 - rounds} rounds')
         print()
 
     print(resultados)
